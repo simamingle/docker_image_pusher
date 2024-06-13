@@ -1,1 +1,1 @@
-bitnami/rabbitmq:3.12.14
+labring/calico:3.26.4
