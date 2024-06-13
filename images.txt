@@ -1,1 +1,1 @@
-nginx:latest
+labring/cilium:v1.14.12
