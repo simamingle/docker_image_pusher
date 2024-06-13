@@ -1,1 +1,1 @@
-labring/cilium:v1.14.12
+bitnami/rabbitmq:3.12.14
